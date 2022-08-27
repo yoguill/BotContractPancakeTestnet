@@ -1,4 +1,7 @@
 # BotContractPancakeTestnet
-Ce bot permet d'interagir sur le testnet avec le contrat pancakeSwap de la BSC, on peut donc acheter un shitcoin avec du bnb de son wallet automatiquement.
+
+This bot allows you to interact on the testnet with the BSC pancakeSwap contract, so you can buy a shitcoin with bnb from your wallet automatically.
+
 Testnet pancakeSwap : https://bsc.pancake.kiemtienonline360.com/#/swap
+
 Testnet BSCscan : https://testnet.bscscan.com/
